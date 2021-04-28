@@ -8,7 +8,7 @@ const saltRounds = 10;
 
 const app = express();
 
-
+//Mulle
 
 app.use(express.static("public"));
 app.set("view engine", "ejs");
